@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https:/holopin.me/pinak22dhir7
-https://holopin.io/@pinak22dhir7
+https://holopin.io/@pinak
+[![An image of @pinak22dhir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pinak22dhir)](https://holopin.io/@pinak22dhir)
