@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi open-source connections 👋
+I am pursuing my Bachelor of 
+Engineering (BE) in Computer Science at Chitkara University with a keen interest in DSA, CP, open-source and different tech stacks(ML, AI, Computer vision, AR, VR,Blender,Unity,3D designing)
+
+I serve as Quality Assurance Lead at Open Source Chandigarh.
+
+I also contribute to GSSOC '23, 
+Hacktoberfest '23, currently doing an internship in codeclause.
+
+I am passionate about updates on the latest technologies, and learning new skills and new tools.
+
+I also represented my district in the State Level Chess tournament in 2018.
+
+I am passionate about Blogging and have a YouTube channel where I share the knowledge I have about tech and programming languages.
+
+I am currently doing a DSA in CPP. 
+
+I am proficient in C, HTML,  CSS, JavaScript, Python, Django, My SQL, PL SQL, Git and Github.
+
+I aspire to become a proficient and innovative software engineer.
 
 <!--
 **pinak22dhir/pinak22dhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
