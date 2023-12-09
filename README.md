@@ -22,6 +22,7 @@ I aspire to become a proficient and innovative software engineer.
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinak22dhir&layout=compact"/>
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=pinak22dhir"/>
 <img alt="my trophies" src="https://github-trophies.vercel.app/?username=pinak22dhir"/>
+<img alt="my streak" src="https://streak-stats.demolab.com/?user=pinak22dhir"/>
 <!--
 **pinak22dhir/pinak22dhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
