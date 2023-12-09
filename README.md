@@ -18,6 +18,7 @@ I am currently doing a DSA in CPP.
 I am proficient in C, HTML,  CSS, JavaScript, Python, Django, My SQL, PL SQL, Git and Github.
 
 I aspire to become a proficient and innovative software engineer.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinak22dhir)](https://github.com/pinak22dhir/github-readme-stats)
 
 <!--
 **pinak22dhir/pinak22dhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
