@@ -18,8 +18,9 @@ I am currently doing a DSA in CPP.
 I am proficient in C, HTML,  CSS, JavaScript, Python, Django, My SQL, PL SQL, Git and Github.
 
 I aspire to become a proficient and innovative software engineer.
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=pinak22dhir"/>
+
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinak22dhir&layout=compact"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=pinak22dhir"/>
 <!--
 **pinak22dhir/pinak22dhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
