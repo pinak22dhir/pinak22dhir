@@ -23,8 +23,11 @@ I aspire to become a proficient and innovative software engineer.
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=pinak22dhir"/>
 <img alt="my trophies" src="https://github-trophies.vercel.app/?username=pinak22dhir"/>
 <img alt="my streak" src="https://streak-stats.demolab.com/?user=pinak22dhir"/>
+## Quine
+
 [![pinak22dhir's GitHub | Stats](https://stats.quine.sh/pinak22dhir/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pinak22dhir)
-Socials:
+
+## Socials:
 https://linktr.ee/pinakdhir?utm_source=linktree_admin_share
 
 <!--
