@@ -18,10 +18,13 @@ I am currently doing a DSA in CPP.
 I am proficient in C, HTML,  CSS, JavaScript, Python, Django, My SQL, PL SQL, Git and Github.
 
 I aspire to become a proficient and innovative software engineer.
-
+## Top Languages
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinak22dhir&layout=compact"/>
+## My Stats
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=pinak22dhir"/>
+## Github Trophies
 <img alt="my trophies" src="https://github-trophies.vercel.app/?username=pinak22dhir"/>
+## Streak
 <img alt="my streak" src="https://streak-stats.demolab.com/?user=pinak22dhir"/>
 ## Quine
 
