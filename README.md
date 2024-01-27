@@ -5,8 +5,7 @@ Engineering (BE) in Computer Science at Chitkara University with a keen interest
 I serve as Quality Assurance Lead at Open Source Chandigarh.
 
 I also contribute to GSSOC '23, 
-Hacktoberfest '23, did internship in codeclause.
-
+Hacktoberfest '23, KWOC'23, IWOC project admin.
 I am passionate about updates on the latest technologies, and learning new skills and new tools.
 
 I also represented my district in the State Level Chess tournament in 2018.
